@@ -3,7 +3,7 @@
 ### I'm spark8899
 
 - 🎓 Shanghai Jiao Tong University
-- 🏠 [my blog](https://sparkknow.com/)
+- 🏠 <a href="https://sparkknow.com/" target="_blank">my blog</a>
 
 <img src="https://github-profile-trophy.vercel.app/?username=spark8899&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 
