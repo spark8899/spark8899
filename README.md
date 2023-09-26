@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=spark8899&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=spark8899&theme=dark&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 ### I'm spark8899
 
