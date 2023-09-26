@@ -5,9 +5,9 @@
 - 🎓 Shanghai Jiao Tong University
 - 🏠 <a href="https://sparkknow.com/" target="_blank">my blog</a>
 
-<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" alt="go" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="20" alt="bash" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
+<code><img height="40" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" alt="go" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+<code><img height="40" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 | <a href="https://github.com/spark8899/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=spark8899&show_icons=true&theme=shadow_green&hide_border=true" alt="spark8899's github stats" /></a> | <a href="https://github.com/spark8899/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spark8899&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
